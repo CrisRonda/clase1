@@ -15,7 +15,7 @@ const nombre= [1,2,3,4]
 ```
 **Excepción con los tipos array & objecto**
 
-`let`: podemos cambiar cual quier valor
+`let`: podemos cambiar cualquier valor
 ```js
 let nombre = "Sandy"
 nombre= 1234
@@ -31,3 +31,12 @@ Cuando preparar nuestros archivos a un commit
 `git add .`
 Para hacer un commit 
 `git commit -m "mi mensaje"`
+
+# Commit Conventions 
+[Doc](https://www.conventionalcommits.org/en/v1.0.0/)
+```text
+feat
+fix
+refactor
+style
+```
