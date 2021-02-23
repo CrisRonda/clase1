@@ -24,3 +24,10 @@ nombre= [1,2,3,4]
 
 `var`: funciona igual `let`, no utilizar var por el hoisting
 
+# Git 
+Para iniciar git 
+`git init`
+Cuando preparar nuestros archivos a un commit 
+`git add .`
+Para hacer un commit 
+`git commit -m "mi mensaje"`
